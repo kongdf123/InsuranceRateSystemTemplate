@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C88193AB-77CD-4CC5-BBBD-A002EBB20D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceRateSystem.Web", "InsuranceRateSystem.Web\InsuranceRateSystem.Web.csproj", "{75FB47D3-548B-4ABC-9CDB-FD2A56BD361A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FB47D3-548B-4ABC-9CDB-FD2A56BD361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FB47D3-548B-4ABC-9CDB-FD2A56BD361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FB47D3-548B-4ABC-9CDB-FD2A56BD361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FB47D3-548B-4ABC-9CDB-FD2A56BD361A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75FB47D3-548B-4ABC-9CDB-FD2A56BD361A} = {C88193AB-77CD-4CC5-BBBD-A002EBB20D63}
+	EndGlobalSection
+EndGlobal
